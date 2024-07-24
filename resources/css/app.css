@@ -1,0 +1,14 @@
+/* resources/css/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-netflix-red {
+  background-color: #E50914;
+}
+.text-gray-dark {
+  color: #121212;
+}
+.text-gray-light {
+  color: #B3B3B3;
+}
